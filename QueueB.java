@@ -69,5 +69,7 @@ public class QueueB {
 
 /*
  * Output:-
- * min cost of cuts = 42
+ * 1
+ * 2
+ * 3
  */
